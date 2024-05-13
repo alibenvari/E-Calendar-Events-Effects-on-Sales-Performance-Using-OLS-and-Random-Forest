@@ -9,10 +9,7 @@ Data Preprocessing: The script reads sales data from an Excel file, replaces inf
 Model Training: The script trains an Ordinary Least Squares (OLS) model and a Random Forest Regressor model on the preprocessed data.
 
 Model Evaluation: The script evaluates the performance of the models using the R2 score, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
-Usage
-Clone the repository.
-Update the file paths in the script with the paths to your datasets.
-Run the script.
+
 Requirements
 Python 3.6 or later
 pandas
