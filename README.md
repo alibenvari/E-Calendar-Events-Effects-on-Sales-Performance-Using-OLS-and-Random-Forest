@@ -5,7 +5,9 @@ How it works
 The script includes the following steps:
 
 Data Preprocessing: The script reads sales data from an Excel file, replaces infinite values with NaN, fills NaN values with zero, and converts all values to numbers.
+
 Model Training: The script trains an Ordinary Least Squares (OLS) model and a Random Forest Regressor model on the preprocessed data.
+
 Model Evaluation: The script evaluates the performance of the models using the R2 score, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 Usage
 Clone the repository.
